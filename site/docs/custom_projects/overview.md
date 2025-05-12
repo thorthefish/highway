@@ -1,6 +1,6 @@
 # Custom projects
 
-Have a project idea in mind already? Not to worry! Here's how to 
+Have a project idea in mind already? Nice Job.
 
 ## Here's how it works:
 
@@ -17,7 +17,7 @@ Each project you design that is approved gets you 6 points
 If you have an idea
 
 ### Allowed Vendors
-By default, you're 
+By default, you're allowed to use
 
 ###
 

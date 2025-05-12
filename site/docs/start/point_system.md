@@ -1,4 +1,12 @@
-## The points system
+# The point system
+
+Points are the currency of Highway! Here's everything you need to know about them.
+
+As always, if you have any questions, ask in #highway-help!
+
+--- 
+
+## Overview
 
 Points are awarded when you either:
 - Attend an event that gives you 1 point

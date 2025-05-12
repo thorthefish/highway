@@ -1,5 +1,7 @@
 # Events
 
-NEXT EVENT: KICKOFF CALL
+Weekly events will be posted here. Get points for attending
 
-^^ fill this in @acon
+NEXT EVENT: KICKOFF CALL (1 point)
+
+^^^ fill this in @acon

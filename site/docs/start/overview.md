@@ -8,7 +8,7 @@ Welcome to the **Highway** to **Undercity**, an unforgettable summer of hardware
 
 If you've *never* done hardware before, this is *your* opportunity to get started. That one project you saw on YouTube but had no idea how to build? That ends now.
 
-Earn points with each project you build. Collect prizes along the way. Join your friends at Undercity, a 4 day hackathon in San Francisco at GitHub HQ
+Earn **points** with each project you build. Collect prizes along the way. Join your friends at Undercity, a 4 day hackathon in San Francisco at GitHub HQ
 
 Collect 12 points before July 1st to get invited to Undercity.
 
@@ -28,7 +28,7 @@ Hit the **"Starters"** button in the top right to find them!
 
 You'll learn how to design your first hardware project & get the parts & tools delivered to you to build it!
 
-(insert image of some projects))
+(insert image of some projects)
 
 #### Fully custom projects: 6 points each
 
