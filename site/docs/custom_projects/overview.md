@@ -25,11 +25,17 @@ By default, you're allowed to use
 
 ## Starting your project
 
-### 1. Make a new GitHub repository!
+In short, here's how to start a new project:
 
-A *git repository* is essentially a new project. GitHub is a website that will host these for you, *for free*!
+1. Make a new GitHub repository
+2. Create a file called JOURNAL.md and commit it
+3. Make a pull request to add it to the repository
+4. Start Designing your project!
+5. Submit(insertlink)
 
-### 2. Start your journal!
+## Journaling
+
+
 
 ### 3. Make a pull request to add it to the repository!
 (insert instructions on how to make a PR to the yaml file)

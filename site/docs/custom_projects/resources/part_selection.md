@@ -1,6 +1,8 @@
 ---
 sidebar_position: 5
 ---
+
+---STALL---
 # Choosing parts
 Choosing parts can be very difficult! Here's a general guide on how to choose between them:
 

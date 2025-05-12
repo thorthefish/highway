@@ -2,22 +2,41 @@
 sidebar_position: 5
 ---
 
-# Referral program
+# Kickstart
 
-(name pending, lmfao)
+(name pending)
 
-Welcome to the highway referral program!
+Welcome to the Highway Kickstart program.
+
+Build projects with your friends, get $20 for pizza & other
+
+US/CAN only
+
+Get free Pizza each time everyone works together. 
 
 
 ## How this works:
 
-### 1. Tell your IRL friends about HC
+### 1. Tell your real life friends to join Highway!
+It's a win-win situation: 
 
-### 2. Get them building it
 
-### 3. Get rewards
+### 2. Make projects together!
+
+Get them to design their own projects!
+
+
+
+
+
+### 3. Get power ups for all of you to use!
+
+Once you get all your parts, stream yourselves working on the project for at least **2 hours** to 
 
 ## Rewards:
 
-- 2 projects: Hoodies for everyone
-- 5 projects: 10 3D printers
+### asdf
+All projects are including you
+
+- 3 projects: Hoodies for everyone
+- 5 projects: 1 Bambu Lab A1 Mini

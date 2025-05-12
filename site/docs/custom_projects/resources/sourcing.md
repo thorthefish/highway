@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+---STALL---
 # Sourcing parts
 
 Welcome to part sourcing! Here's a ton of tips for you to optimize the cost of your part
