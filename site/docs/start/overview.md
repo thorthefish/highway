@@ -6,7 +6,13 @@ sidebar_position: 2
 
 Welcome to the **Highway** to **Undercity**, an unforgettable summer of hardware running from now through July 31st.
 
-Collect 12 points before July 1st to get invited to Undercity!
+If you've *never* done hardware before, this is *your* opportunity to get started. That one project you saw on YouTube but had no idea how to build? That ends now.
+
+Earn points with each project you build. Collect prizes along the way. Join your friends at Undercity, a 4 day hackathon in San Francisco at GitHub HQ
+
+Collect 12 points before July 1st to get invited to Undercity.
+
+*(and if you're already a seasoned pro - consider this a free money glitch, just for you)*
 
 ## Here's how it works:
 

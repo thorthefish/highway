@@ -10,11 +10,11 @@ Have a project idea in mind already? Not to worry! Here's how to
 2. Journal & Log your progress along the way
 3. Get $150 USD to build it.
 
-Each project you design gets you 6 points
+Each project you design that is approved gets you 6 points
 
-### Extra dvanced projects
+### Extra advanced projects
 
-If you're
+If you have an idea
 
 ### Allowed Vendors
 By default, you're 
